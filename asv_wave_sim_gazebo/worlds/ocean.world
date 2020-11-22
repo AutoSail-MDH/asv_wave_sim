@@ -28,6 +28,10 @@
       </camera>
     </gui>
 
+    <wind>
+      <linear_velocity>7 7 0</linear_velocity>
+    </wind>
+
     <!-- Scene -->
     <scene>
       <sky>
@@ -41,6 +45,7 @@
       </sky>
       <grid>false</grid>
       <origin_visual>false</origin_visual>
+      <shadows>0</shadows>
     </scene>
 
     <!-- Lights -->
